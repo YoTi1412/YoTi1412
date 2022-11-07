@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Python, JavaScript, M.E.R.N**
 
-- 📫 How to reach me **yasserrafai5@gmail.com**
-
 - ⚡ Fun fact **E = m.c²**
 
 <h3 align="left">Connect with me:</h3>
