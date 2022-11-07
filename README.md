@@ -1,8 +1,5 @@
-[![MasterHead](https://www.facebook.com/photo/?fbid=273265908092144&set=a.107036811381722)]
 <h1 align="center">Hi 👋, I'm YoTi</h1>
 <h3 align="center">A passionate frontend developer from MOROCCO</h3>
-(img align="right" alt="Coding" width="400" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoti1412&label=Profile%20views&color=0e75b6&style=flat" alt="yoti1412" /> </p>
 
 - 🔭 I’m currently working on **Responsive Resume Cv Website**
