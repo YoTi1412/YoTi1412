@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoti1412&label=Profile%20views&color=0e75b6&style=flat" alt="yoti1412" /> </p>
 
-- 🔭 I’m currently working on **SONAR Rock vs Mine Prediction**
+- 🔭 I’m currently working on **Some ALX $hit**
 
 - 🌱 I’m currently learning **RUST**
 
