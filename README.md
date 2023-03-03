@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SONAR Rock vs Mine Prediction**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **RUST**
 
 - 💬 Ask me about **Python, JavaScript, M.E.R.N**
 
