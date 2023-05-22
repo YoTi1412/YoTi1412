@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yoti1412" target="blank"><img src="https://img.shields.io/twitter/follow/yoti1412?logo=twitter&style=for-the-badge" alt="yoti1412" /></a> </p>
 
-- 🔭 I’m currently working on **OS in Rust**
+- 🔭 I’m currently working on **Writing an OS in Rust**
 
 - 🌱 I’m currently learning **RUST Language**
 
@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yoti1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoti1412" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/users/401546744413945856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/401546744413945856" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
