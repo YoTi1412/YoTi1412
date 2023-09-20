@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/yoti1412" target="blank"><img src="https://img.shields.io/twitter/follow/yoti1412?logo=twitter&style=for-the-badge" alt="yoti1412" /></a> </p>
 
-- 🔭 I’m currently working on **Writing an OS in Rust**
+- 🔭 I’m currently working on **Some ALX stuff**
 
-- 🌱 I’m currently learning **RUST Language**
+- 🌱 I’m currently learning **Networking**
 
-- 💬 Ask me about **MERN Stack, Python**
+- 💬 Ask me about **MERN Stack, Python, Rust**
 
 - 📫 How to reach me **yoti1412@yandex.com**
 
