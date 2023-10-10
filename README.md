@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoti1412&label=Profile%20views&color=0e75b6&style=flat" alt="yoti1412" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoti1412" alt="yoti1412" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yoti1412" target="blank"><img src="https://img.shields.io/twitter/follow/yoti1412?logo=twitter&style=for-the-badge" alt="yoti1412" /></a> </p>
 
 - 🔭 I’m currently working on **Some sh*t**
 
 - 🌱 I’m currently learning **Java & Spring Boot**
+
+- 👨‍💻 All of my projects are available at [yo-ti.me](yo-ti.me)
 
 - 💬 Ask me about **MERN Stack, Python, Rust**
 
@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoti1412&show_icons=true&locale=en&layout=compact" alt="yoti1412" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoti1412&show_icons=true&locale=en" alt="yoti1412" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoti1412&" alt="yoti1412" /></p>
