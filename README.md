@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Java & Spring Boot**
 
-- 👨‍💻 All of my projects are available at [yo-ti.me](yo-ti.me)
-
 - 💬 Ask me about **MERN Stack, Python, Rust**
 
 - 📫 How to reach me **yoti1412@yandex.com**
