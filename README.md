@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Some sh*t<br><br>🌱 I’m currently learning Java & Spring Boot<br><br>💬 Ask me about MERN Stack, Python, Rust<br><br>📫 How to reach me yoti1412@yandex.com<br><br>⚡ Fun fact E = m.c²
+🔭 I’m currently working on Online Shopping Application<br><br>🌱 I’m currently learning Java & Spring Boot<br><br>💬 Ask me about MERN Stack, Python, Rust<br><br>📫 How to reach me yoti1412@yandex.com<br><br>⚡ Fun fact E = m.c²
 
 
 ## 🌐 Socials:
