@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Anything related to Low Level Programming**
 
-- 📝 I regularly write articles on [yo-ti.me](yo-ti.me)
-
 - 💬 Ask me about **C, Rust, JAVA**
 
 - 📫 How to reach me **yoti1412@yandex.com**
