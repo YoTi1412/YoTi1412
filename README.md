@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/yoti1412" target="blank"><img src="https://img.shields.io/twitter/follow/yoti1412?logo=twitter&style=for-the-badge" alt="yoti1412" /></a> </p>
 
+[![yrafai's 42 stats](https://badge.mediaplus.ma/black/yrafai)](https://github.com/oakoudad/badge42)
+
 - 🔭 I’m currently working on **VM in C**
 
 - 🌱 I’m currently learning **Anything related to Low Level Programming**
