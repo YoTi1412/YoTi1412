@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42" target="blank">
+  <a href="https://github.com/yoti1412" target="blank">
     <img src="https://badge.mediaplus.ma/black/yrafai" alt="yrafai's 42 stats" />
   </a>
 </p>
