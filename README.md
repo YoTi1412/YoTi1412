@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yoti1412" target="blank">
-    <img src="https://badge.mediaplus.ma/black/yrafai" alt="yrafai's 42 stats" />
-  </a>
-</p>
-
 <p align="center">- 🔭 I’m currently working on <strong>VM in C</strong></p>
 <p align="center">- 🌱 I’m currently learning <strong>Anything related to Low Level Programming</strong></p>
 <p align="center">- 💬 Ask me about <strong>C, Rust, JAVA</strong></p>
