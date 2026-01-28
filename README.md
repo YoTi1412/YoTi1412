@@ -1,19 +1,24 @@
-<h2 align="center">Hi, I'm Yasser</h2>
+<div align="center">
 
-<p align="center">
-  I'm a software engineering student at <strong>42</strong>, passionate about low-level programming,
-  backend development, and understanding how systems work under the hood.
-</p>
+  <h2>Hi, I'm Yasser</h2>
 
-<p align="center">
-  I enjoy working with <strong>C / C++</strong>, <strong>Java</strong>, and modern backend technologies.
-  I like building things by breaking them first, then fixing them properly.
-</p>
+  <p align=center">
+    Software engineering student at <strong>42</strong><br />
+    Interested in low-level programming, backend development,<br />
+    and understanding how systems work under the hood.<br />
+  </p>
 
-<p align="center">
-  Currently developing my first large-scale web application.
-  stay tuned 👀.
-</p>
+  <p align=center">
+    Working mainly with <strong>C / C++</strong>, <strong>Java</strong>, and modern backend technologies.<br />
+    I like building things by breaking them first, then fixing them properly.<br />
+  </p>
+
+  <p align=center">
+    Currently developing my first large-scale web application.<br />
+    Stay tuned 👀<br />
+  </p>
+
+</div>
 
 <p align="center">____________________________</p>
 
