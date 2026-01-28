@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>Hi, I'm Yasser</h2>
+  <h2>Hi, I'm YoTi</h2>
 
   <p align=center">
     Software engineering student at <strong>42</strong><br />
