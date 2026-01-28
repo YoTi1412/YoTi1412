@@ -1,3 +1,22 @@
+<h2 align="center">Hi, I'm Yasser</h2>
+
+<p align="center">
+  I'm a software engineering student at <strong>42</strong>, passionate about low-level programming,
+  backend development, and understanding how systems work under the hood.
+</p>
+
+<p align="center">
+  I enjoy working with <strong>C / C++</strong>, <strong>Java</strong>, and modern backend technologies.
+  I like building things by breaking them first, then fixing them properly.
+</p>
+
+<p align="center">
+  Currently developing my first large-scale web application.
+  stay tuned 👀.
+</p>
+
+<p align="center">____________________________</p>
+
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/kettlebells/yrafai" alt="yrafai's 42 stats" />
